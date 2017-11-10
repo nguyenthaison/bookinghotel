@@ -1,0 +1,77 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 200px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 200px;
+    background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+
+
+/* Not required for template or sticky footer method. */
+
+.contact-container {
+    width: 1170px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contact-container .text-muted {
+    margin: 15px 0;
+}
+
+.footer>.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+code {
+    font-size: 80%;
+}
+
+.contact-bali-symbol {
+    font-size: 80px;
+    width: 115px;
+    margin: auto;
+}
+
+.help {
+    text-align: center;
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+dl {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.phone-list.dl-horizontal dt {
+    font-weight: 300;
+    width: 90px !important;
+}
+
+.phone-list.dl-horizontal dd {
+    margin-left: 120px;
+}
+
+.footer {
+    height: 100px;
+}

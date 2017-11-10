@@ -1,0 +1,27 @@
+{
+  "name": "bhp",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "AdminLTE": "admin-lte#~2.3.2",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "semantic": "semantic-ui#~2.1.6",
+    "angular-bootstrap": "~0.14.3",
+    "angular-loading-bar": "~0.8.0",
+    "textAngular": "~1.4.6",
+    "ng-tags-input": "~3.0.0",
+    "angular-ui-select": "^0.18.0",
+    "angular-ckeditor": "^1.0.3",
+    "ng-file-upload": "^12.0.4",
+    "angular-lazy-img": "^1.2.2",
+    "ngInfiniteScroll": "1.0.0",
+    "angular-bootstrap-lightbox": "^0.12.0",
+    "lightbox2": "^2.8.2"
+  }
+}
